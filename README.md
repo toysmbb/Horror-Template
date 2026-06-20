@@ -3,7 +3,7 @@ This template helps developers quickly prototype horror games in UE5.
 
 ---
 
-##FEATURES:
+## FEATURES:
 * **Camera Shake System**: Dynamic camera shaking effects to enhance immersion and impact.
 * **Locked Doors & Keys**: Advanced locking system where specific keys are uniquely linked to corresponding doors.
 * **Flexible Interaction System**: A highly versatile and scalable framework that serves as the foundation for all interactable objects and world mechanics.
