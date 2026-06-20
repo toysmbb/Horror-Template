@@ -13,7 +13,7 @@ This template helps developers quickly prototype horror games in UE5.
 * **Flashlight & Battery Mechanics**: Functional flashlight gameplay with power depletion and consumable batteries for recharging.
 * **Surface-Based Footsteps**: Footstep sound effects that dynamically change depending on the surface type.
 * **Smart AI Enemy**: Advanced AI equipped with sight and sound perception components, built utilizing a State Tree for realistic behaviors (Patrolling, Searching, Suscpect, Chasing, etc.).
-* * **Save & Load System**: System to save game progress.
+* **Save & Load System**: System to save game progress.
 * **Main & Pause Menu**: Basic user interface including a main menu, settings, and pause menu.
 * **Game Over System**: Smooth transition mechanics for player death.
 
